@@ -1,0 +1,6 @@
+C:\\Users\\Adrian y Natalia\\source\\repos\\TriviaCulturaGeneral\\TriviaCulturaGeneral\\Images\\pregunta-1.jpg;La imagen Corresponde a:;Las Pirámides de Egipto;Laguna Azul;El estadio Atanasio Girardot;Ecuador;Las Pirámides de Egipto
+C:\\Users\\Adrian y Natalia\\source\\repos\\TriviaCulturaGeneral\\TriviaCulturaGeneral\\Images\\pregunta-2.jpg;La imagen Corresponde a:;Oceano pacífico;El amazonas;Santa Marta;La Muralla China;La Muralla China
+C:\\Users\\Adrian y Natalia\\source\\repos\\TriviaCulturaGeneral\\TriviaCulturaGeneral\\Images\\pregunta-3.jpg;La imagen Corresponde a:;Voleibol;Beisbol;Fútbol;Tennis;Fútbol
+C:\\Users\\Adrian y Natalia\\source\\repos\\TriviaCulturaGeneral\\TriviaCulturaGeneral\\Images\\pregunta-4.jpg;La imagen Corresponde a:;Las cataratas del Niagara;Rio Medellín;El estrecho de Gibraltar;Rio de la Plata;Las cataratas del Niagara
+C:\\Users\\Adrian y Natalia\\source\\repos\\TriviaCulturaGeneral\\TriviaCulturaGeneral\\Images\\pregunta-5.jpg;La imagen Corresponde a:;Jorge Celedon;Daddy Yankee;Michael Jackson;Thalía;Michael Jackson
+
