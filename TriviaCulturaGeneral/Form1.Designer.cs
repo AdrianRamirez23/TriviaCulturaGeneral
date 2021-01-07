@@ -79,6 +79,7 @@ namespace TriviaCulturaGeneral
             this.chkListPreguntas.Location = new System.Drawing.Point(73, 366);
             this.chkListPreguntas.Name = "chkListPreguntas";
             this.chkListPreguntas.Size = new System.Drawing.Size(224, 94);
+            this.chkListPreguntas.SelectionMode = System.Windows.Forms.SelectionMode.One;
             this.chkListPreguntas.TabIndex = 3;
             // 
             // btnSiguiente

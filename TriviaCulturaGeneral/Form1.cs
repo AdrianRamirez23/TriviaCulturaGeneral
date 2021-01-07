@@ -115,12 +115,8 @@ namespace TriviaCulturaGeneral
                 }
                 else
                 {
-                    MessageBox.Show("Gracias por Participar en nuestra Trivia", "Felicitaciones", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                     MessageBox.Show("Gracias por Participar en nuestra Trivia", "Felicitaciones", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
-
-                
-                
-              
             }
             catch (FileNotFoundException fe)
             {
@@ -144,12 +140,18 @@ namespace TriviaCulturaGeneral
         {
             if (chkListPreguntas.SelectedItem.ToString() == respuesta)
             {
-                MessageBox.Show("Respuesta Correcta", "Felicitaciones", MessageBoxButtons.OK,MessageBoxIcon.Information);
+                Form mensaje = new MessageBoxForm("Respuesta Correcta");
+                System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"c:\Windows\Media\chimes.wav");
+                player.Play();
+                mensaje.ShowDialog();
                 
             }
             else
             {
-                MessageBox.Show("Respuesta Incorrecta", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                Form mensaje1 = new MessageBoxForm1("Respuesta Incorrecta");
+                System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"c:\Windows\Media\chord.wav");
+                player.Play();
+                mensaje1.ShowDialog();
             }
             chkListPreguntas.Items.Clear();
             numPreg = numPreg + 1;
